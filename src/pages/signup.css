@@ -1,0 +1,188 @@
+/* /* .signin{
+    background-color: aquamarine;
+} */
+/* .check-credentials-formsp{
+    margin: auto;
+    height: 350px;
+    width: 120%; */
+    /* background-color: rgb(12, 12, 12); */
+     /* background-image: url("https://m.media-amazon.com/images/I/71KaLu6AshL._SX679_.jpg");  */
+ 
+  /* padding: 50px;  
+  margin: 20px;  
+  border: 6px ridge red;  
+  width: 300px;  
+  float: left;  
+  height: 150px;   */
+
+
+/* #input[type=text] {
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 70%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(111, 21, 21);
+    box-sizing: border-box;
+  } */
+  /* #firstnamesp{
+     
+  border: 80% ridge pink;  
+ 
+    width: 80%;
+    
+    margin-left: 50px;
+    
+    border-color:red;
+  }
+  #lastnamesp{
+    
+ 
+    width: 80%;
+    
+    margin-left: 50px;
+  } */
+  /* #usernamesp{
+  
+    width: 80%;
+    
+    margin-left: 50px;
+   
+  }
+  #emailsp{
+  
+    width: 80%;
+    
+    margin-left: 50px;
+   
+  }
+  #passwordsp{
+  
+    width: 80%;
+    
+    margin-left: 50px;
+   
+  }
+  #confirmpasswordsp{
+
+    width: 80%;
+    
+    margin-left: 50px;
+  }
+  #phonesp{
+
+    width: 80%;
+    
+    margin-left: 50px;
+  }
+  .btnsignup{
+ 
+    /* color : rgba(185, 168, 21, 0.95); */
+    /* .signin{
+    background-color: aquamarine;
+} */
+/* .check-credentials-form{
+  margin: auto;
+  height: 300px;
+  width: 130%;
+  
+  
+}
+#input[type=text] {
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-left: 20px;
+  width: 70%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+#email{
+  width: 80%;
+  margin-top: 40px;
+  margin-left: 80px;
+ 
+}
+#password{
+  width: 80%;
+  
+  margin-left: 80px;
+ 
+}
+.btnsignin{
+  
+  margin-left: 150px;
+
+} */
+/* .signin{
+  background-image: url("https://th.bing.com/th/id/OIP.mH2332uV_H3VQplkjooidgHaE-?pid=ImgDet&w=700&h=470&rs=1");
+    background-size: 100%;
+} */
+/* .signin{
+    background-color: white;
+}  */
+.check-credentials-formsp{
+  margin: auto;
+  height: 350px;
+  width: 150%;
+  
+  
+}
+/* #input[type=text] {
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 100px;
+  padding-top: 30px;
+  padding-left: 20px;
+  width: 70%;
+  padding: 20px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(111, 21, 21);
+  box-sizing: border-box;
+} */
+/* #firstnamesp{
+  width: 80%;
+  
+  margin-left: 50px;
+} */
+ #usernamesp{
+  width: 80%;
+  
+  margin-left: 50px;
+} 
+#emailsp{
+  width: 80%;
+  
+  margin-left: 50px;
+ 
+}
+#passwordsp{
+  width: 80%;
+  
+  margin-left: 50px;
+ 
+}
+#confirmpasswordsp{
+  width: 80%;
+  
+  margin-left: 50px;
+}
+#phonesp{
+  width: 80%;
+  
+  margin-left: 50px;
+}
+.btnsignup{
+  color : rgba(185, 168, 21, 0.95);
+  margin-left: 100px;
+
+}

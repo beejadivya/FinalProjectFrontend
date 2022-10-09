@@ -1,0 +1,55 @@
+/* .testing{
+    height: 5vh;
+    width:  5% ;
+    margin-left: 60pc;
+
+} */ 
+
+/* body {
+ background-image:  url("https://th.bing.com/th/id/R.e45a4d4df47a8be5ddf21c9ac19c4581?rik=SnM%2fZb%2ff3%2bWGlA&riu=http%3a%2f%2fi.imgur.com%2fMuIV2JN.jpg&ehk=prWwXDaPDsiHKRsd01QYip3ERlUmKAoM9WWl9jaTlCQ%3d&risl=&pid=ImgRaw&r=0");
+} */
+.Product{
+  background-image: url("https://t4.ftcdn.net/jpg/02/63/17/41/360_F_263174164_xbiHbJPAFA4cQHFe4fDtXXrX5ArPBm2y.jpg");
+
+    background-size: 100%;
+}
+
+.ProductPage {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+  }
+  
+  .ProductPageContainer {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .ProductHeading {
+    text-align: center;
+  
+  }
+  .ProductHeading{
+    color: black;
+  }
+  
+  .productList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 120px;
+    margin: 50px;
+  }
+  .pro{
+    height:250px;
+    width:250px;
+
+
+  }
+  .button{
+    color:black;
+    background-color:orange;
+    padding: 20;
+    border-radius:10;
+  }

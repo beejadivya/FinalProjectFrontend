@@ -1,0 +1,45 @@
+/* .signin{
+  background-image: url("https://th.bing.com/th/id/OIP.fyY17eB79pSFo-BU_9_8JwHaJQ?pid=ImgDet&rs=1");
+  background-size:100% ;
+} */
+.check-credentials-form{
+  margin: auto;
+  height: 300px;
+  width: 130%;
+  
+  
+}
+#input[type=text] {
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-left: 20px;
+  width: 70%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+#email{
+  width: 80%;
+  margin-top: 40px;
+  margin-left: 80px;
+ 
+}
+#password{
+  width: 80%;
+  
+  margin-left: 80px;
+ 
+}
+.btnsignin{
+  
+  /* margin-left: 150px; */
+  text-align: center;
+
+}
+.forgot{
+  text-align: center;
+}
